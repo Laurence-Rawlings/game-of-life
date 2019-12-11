@@ -1,6 +1,6 @@
 package com.laurence_rawlings;
 
-public class Main {
+public class Debug {
 
     public static void main(String[] args) {
 	    Board b = new Board(50, 10);
